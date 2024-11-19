@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1o0Bu/s479e0oqkRG14vHzi61+cS1l3nn964kEQhQhJdT81ZWpNXIuET7pZr/mHlsbLshByUdyPT44IOlXfiA==",
+  "success": true,
+  "projectFilePath": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\ClassLibraryPOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.10000\\selenium.webdriver.chromedriver.129.0.6668.10000.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\TPO\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FFDD-ABCD-4CCB-98D1-BD3E824F24B2}|Lab-03a-server\\Lab-03a-server.vcxproj|D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6584FFDD-ABCD-4CCB-98D1-BD3E824F24B2}|Lab-03a-server\\Lab-03a-server.vcxproj|solutionrelative:Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1E9E51-764A-49AE-9154-7FFF234B16EA}|Lab-3a-client\\Lab-3a-client.vcxproj|D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-3a-client\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD1E9E51-764A-49AE-9154-7FFF234B16EA}|Lab-3a-client\\Lab-3a-client.vcxproj|solutionrelative:Lab-3a-client\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-03a-server.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeDocumentMoniker": "Lab-03a-server\\Lab-03a-server.c",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeToolTip": "Lab-03a-server\\Lab-03a-server.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-21T13:23:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-03a-client.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-3a-client\\Lab-03a-client.c",
+              "RelativeDocumentMoniker": "Lab-3a-client\\Lab-03a-client.c",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab03\\Lab-3a-client\\Lab-03a-client.c",
+              "RelativeToolTip": "Lab-3a-client\\Lab-03a-client.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-21T13:23:18.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

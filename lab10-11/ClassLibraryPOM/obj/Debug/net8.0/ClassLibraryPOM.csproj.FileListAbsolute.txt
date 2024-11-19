@@ -1,0 +1,15 @@
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\ClassLibraryPOM.deps.json
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\ClassLibraryPOM.dll
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\bin\Debug\net8.0\ClassLibraryPOM.pdb
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.csproj.AssemblyReference.cache
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.AssemblyInfoInputs.cache
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.AssemblyInfo.cs
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.csproj.CoreCompileInputs.cache
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.dll
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\refint\ClassLibraryPOM.dll
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ClassLibraryPOM.pdb
+D:\5_SEM_LABS\TPO\lab10.1\ClassLibraryPOM\obj\Debug\net8.0\ref\ClassLibraryPOM.dll

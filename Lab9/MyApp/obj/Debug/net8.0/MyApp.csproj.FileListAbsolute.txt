@@ -1,0 +1,11 @@
+D:\5_SEM_LABS\TPO\Lab9\MyApp\bin\Debug\net8.0\MyApp.deps.json
+D:\5_SEM_LABS\TPO\Lab9\MyApp\bin\Debug\net8.0\MyApp.dll
+D:\5_SEM_LABS\TPO\Lab9\MyApp\bin\Debug\net8.0\MyApp.pdb
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.dll
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\MyApp.pdb
+D:\5_SEM_LABS\TPO\Lab9\MyApp\obj\Debug\net8.0\ref\MyApp.dll

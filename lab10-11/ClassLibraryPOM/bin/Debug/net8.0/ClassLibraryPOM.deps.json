@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClassLibraryPOM/1.0.0": {
+        "dependencies": {
+          "DotNetSeleniumExtras.PageObjects": "3.11.0",
+          "DotNetSeleniumExtras.PageObjects.Core": "4.3.0",
+          "Selenium.Support": "4.25.0",
+          "Selenium.WebDriver": "4.25.0",
+          "Selenium.WebDriver.ChromeDriver": "129.0.6668.10000"
+        },
+        "runtime": {
+          "ClassLibraryPOM.dll": {}
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.25.0"
+        }
+      },
+      "DotNetSeleniumExtras.PageObjects.Core/4.3.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.25.0"
+        },
+        "runtime": {
+          "lib/net5.0/SeleniumExtras.PageObjects.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Selenium.Support/4.25.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.25.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.25.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/129.0.6668.10000": {}
+    }
+  },
+  "libraries": {
+    "ClassLibraryPOM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetSeleniumExtras.PageObjects/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DJCLQ3beq1fzqpeQ5jTZwDqmzbOD2Xxsb/jCyShYam88CNwGGn5aBBqu4LVSj0sy0Ai76OauQQncYlC48VvQUQ==",
+      "path": "dotnetseleniumextras.pageobjects/3.11.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512"
+    },
+    "DotNetSeleniumExtras.PageObjects.Core/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZqD0Rx5On7NvcwAQbnNnnUy1czifVYin17TN4jnWCIKkKofBJLMK0a0aR/uQ7sF9atUlOKHJRLjs6mZQ9shbTw==",
+      "path": "dotnetseleniumextras.pageobjects.core/4.3.0",
+      "hashPath": "dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512"
+    },
+    "Selenium.Support/4.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nIWkD1kth4Taq2XgDuvPv2xDpFzm3SODvfmuuTGvYYFYHAteWcOeczwsVMQErLtwKjEwfdGO0B9dwDr+i5ZEkQ==",
+      "path": "selenium.support/4.25.0",
+      "hashPath": "selenium.support.4.25.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0g/9I5ennfL2ZaQoXsfEPj+GcqrKlcVr1yxh3C/Eed/acNZrC38OaXLorsuHdAHiGn+QySV3iz8/hFcOXvVcoA==",
+      "path": "selenium.webdriver/4.25.0",
+      "hashPath": "selenium.webdriver.4.25.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/129.0.6668.10000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ITK8gxLEAlDIonktadjenCmaZooh0uxYcgkatfV6HnEEQIRnhHDvM9OhKvM1meaZpHc/DLVCTvK4HV4jSX08aA==",
+      "path": "selenium.webdriver.chromedriver/129.0.6668.10000",
+      "hashPath": "selenium.webdriver.chromedriver.129.0.6668.10000.nupkg.sha512"
+    }
+  }
+}

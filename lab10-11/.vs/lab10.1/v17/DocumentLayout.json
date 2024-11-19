@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\TPO\\lab10.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C44879-C9F6-46BB-8C7F-3843DEE04029}|Tests\\Tests.csproj|d:\\5_sem_labs\\tpo\\lab10.1\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C44879-C9F6-46BB-8C7F-3843DEE04029}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\classlibrarypom\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|solutionrelative:classlibrarypom\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\classlibrarypom\\cookiehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|solutionrelative:classlibrarypom\\cookiehomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\classlibrarypom\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|solutionrelative:classlibrarypom\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\classlibrarypom\\oneproductpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|solutionrelative:classlibrarypom\\oneproductpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\classlibrarypom\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FFE91B7-6173-4C9F-9C0B-16C62C993852}|ClassLibraryPOM\\ClassLibraryPOM.csproj|solutionrelative:classlibrarypom\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C44879-C9F6-46BB-8C7F-3843DEE04029}|Tests\\Tests.csproj|D:\\5_SEM_LABS\\TPO\\lab10.1\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92C44879-C9F6-46BB-8C7F-3843DEE04029}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\HomePage.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPOM\\HomePage.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\HomePage.cs",
+              "RelativeToolTip": "ClassLibraryPOM\\HomePage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:18:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\ProductPage.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPOM\\ProductPage.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\ProductPage.cs",
+              "RelativeToolTip": "ClassLibraryPOM\\ProductPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:24:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\CartPage.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPOM\\CartPage.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\CartPage.cs",
+              "RelativeToolTip": "ClassLibraryPOM\\CartPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:15:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CookieHomePage.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\CookieHomePage.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPOM\\CookieHomePage.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\CookieHomePage.cs",
+              "RelativeToolTip": "ClassLibraryPOM\\CookieHomePage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:25:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:04:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OneProductPage.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\OneProductPage.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPOM\\OneProductPage.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\ClassLibraryPOM\\OneProductPage.cs",
+              "RelativeToolTip": "ClassLibraryPOM\\OneProductPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:10:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\lab10.1\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\lab10.1\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T12:35:44.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

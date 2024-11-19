@@ -1,0 +1,24 @@
+﻿<Window x:Class="lab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab7"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MainWindow" Height="300" Width="500">
+    <Grid Background="#cde4fb">
+        <DockPanel HorizontalAlignment="Center" Height="220" Width="420" VerticalAlignment="Center">
+            <StackPanel Margin="0 0 0 0" Width="250">
+                <Button Height="30" Width="150" HorizontalAlignment="Left" Click="Button1_Click">CssSelctor</Button>
+                <Label  Margin="0 10" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Результат поиска:"/>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="myLabel"/>
+            </StackPanel>
+            <StackPanel Margin="0 0" HorizontalAlignment="Right">
+                <Button Height="30" Width="150" Click="Button2_Click">XPath/link/tag</Button>
+                <Label Margin="0 10" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Результат поиска:"/>
+                <Image x:Name="myImageControl" Width="100" Height="100"   Stretch="Uniform" />
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

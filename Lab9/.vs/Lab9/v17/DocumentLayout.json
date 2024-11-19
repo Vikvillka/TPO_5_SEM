@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\TPO\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE39DEE-A4BF-47B1-A926-00EB349C7B2D}|MyApp.Tests\\MyApp.Tests.csproj|d:\\5_sem_labs\\tpo\\lab9\\myapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE39DEE-A4BF-47B1-A926-00EB349C7B2D}|MyApp.Tests\\MyApp.Tests.csproj|solutionrelative:myapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|D:\\5_SEM_LABS\\TPO\\Lab9\\myapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|solutionrelative:myapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|D:\\5_SEM_LABS\\TPO\\Lab9\\myapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|solutionrelative:myapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|D:\\5_SEM_LABS\\TPO\\Lab9\\myapp\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|solutionrelative:myapp\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|D:\\5_SEM_LABS\\TPO\\Lab9\\myapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84197817-848F-454B-91AF-85A795EBA8EB}|MyApp\\MyApp.csproj|solutionrelative:myapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MyApp.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MyApp.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:42:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Product.cs",
+              "RelativeDocumentMoniker": "MyApp\\Product.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Product.cs",
+              "RelativeToolTip": "MyApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:43:34.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyApp\\IProductRepository.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\IProductRepository.cs",
+              "RelativeToolTip": "MyApp\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:44:08.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Service.cs",
+              "RelativeDocumentMoniker": "MyApp\\Service.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Service.cs",
+              "RelativeToolTip": "MyApp\\Service.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:52:48.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Cart.cs",
+              "RelativeDocumentMoniker": "MyApp\\Cart.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\TPO\\Lab9\\MyApp\\Cart.cs",
+              "RelativeToolTip": "MyApp\\Cart.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:43:19.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

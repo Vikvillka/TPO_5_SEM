@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrXHc4xR+ATOWcFHlK0oZQD4Kv/8dB2TJQBZ/CQSmfM4qQOaHdsndooa0w9LMJJM/E0ukTXI/qlGw5+2W9wc3w==",
+  "success": true,
+  "projectFilePath": "D:\\5_SEM_LABS\\TPO\\lab8.1\\lab7\\lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.10000\\selenium.webdriver.chromedriver.129.0.6668.10000.nupkg.sha512"
+  ],
+  "logs": []
+}
